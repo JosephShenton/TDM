@@ -248,10 +248,10 @@ html:not(.watch-active-state) .layout-TDM label.label-radio:active,
   background-color: #393939;
 }
 .layout-TDM .searchbar {
-  background: ##1b2836;
+  background: #1b2836;
 }
 .layout-TDM .searchbar:after {
-  background-color: ##1b2836;
+  background-color: #1b2836;
 }
 .layout-TDM .list-block input[type="text"],
 .list-block.layout-TDM input[type="text"],
