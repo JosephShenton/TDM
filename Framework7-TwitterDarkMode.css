@@ -301,5 +301,5 @@ html:not(.watch-active-state) .layout-TDM label.label-radio:active,
 }
 .layout-TDM .searchbar input[type="search"] {
 	background-color: #141c26;
-	
+	color: white;
 }
