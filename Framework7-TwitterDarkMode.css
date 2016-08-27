@@ -201,10 +201,10 @@
 .popover.layout-TDM .list-block ul {
   background: none;
 }
-.layout-TDM .actions-popover .list-block ul:before {
+.layout-TDM .actions-popover .list-block .searchbar ul:before {
   background-color: #393939;
 }
-.layout-TDM .actions-popover .list-block ul:after {
+.layout-TDM .actions-popover .list-block .searchbar  ul:after {
   background-color: #393939;
 }
 .layout-TDM .actions-popover .actions-popover-label:after {
