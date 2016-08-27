@@ -299,7 +299,7 @@ html:not(.watch-active-state) .layout-TDM label.label-radio:active,
 	background-color: #141c26;
 	color: white;
 }
-.searchbar input[type="search"] {
+.layout-TDM .searchbar input[type="search"] {
 	background-color: #141c26;
 	
 }
