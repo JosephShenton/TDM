@@ -23,6 +23,10 @@
  * #243447 = nav and tab
  */
 
+.layout-TDM .body {
+background-color: #141c26;	
+}
+}
 
 .layout-TDM .navbar,
 .navbar.layout-TDM,
