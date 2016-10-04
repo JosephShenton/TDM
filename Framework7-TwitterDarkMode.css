@@ -32,7 +32,7 @@ background-color: #141c26;
 .navbar.layout-TDM,
 .layout-TDM .subnavbar,
 .subnavbar.layout-TDM {
-  background-color: #243447;
+  background-color: #243447 !important;
   color: #fff;
 }
 .layout-TDM .navbar:after,
