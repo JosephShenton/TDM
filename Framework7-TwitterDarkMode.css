@@ -303,6 +303,19 @@ html:not(.watch-active-state) .layout-TDM label.label-radio:active,
 	background-color: #141c26;
 	color: white;
 }
+
+.layout-TDM .button {
+	margin-left: 20%;
+	margin-right: 20%
+	
+}
+
+.layout-TDM .button .button-fill {
+	background: #243447;
+	color: #a2b0c2;
+	border: none;
+}
+
 .layout-TDM .searchbar input[type="search"] {
 	background-color: #141c26;
 	color: white;
