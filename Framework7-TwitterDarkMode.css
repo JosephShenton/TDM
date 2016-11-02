@@ -311,9 +311,9 @@ html:not(.watch-active-state) .layout-TDM label.label-radio:active,
 }
 
 .layout-TDM .button .button-fill {
-	background: #243447;
-	color: #a2b0c2;
-	border: none;
+	background: #243447 !important;
+	color: #a2b0c2 !important;
+	border: none !important;
 }
 
 .layout-TDM .searchbar input[type="search"] {
